@@ -8,6 +8,10 @@
 		<?php include('includes/navbar.php'); ?>
 		<!-- // navbar -->
 
+        <!-- banner -->
+        <?php include('includes/banner.php'); ?>
+        <!--// banner -->
+
 		<!-- Page content -->
 		<div class="content">
 			<h2 class="content-title">Recent Articles</h2>
